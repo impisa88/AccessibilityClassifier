@@ -1,0 +1,80 @@
+ID,Name,District,Address,Contact,Homepage,Upvote,Main Entrance Access Road,Handicap Parking,Main Entrance Slope Way,Disabled Escalator,Disabled Toilet,Disabled Lodging Facility,Disabled Seat,Disabled Ticket Office,Service for the visually-impaired,Service for the hearing-impaired,Information Service,Wheelchair Rental
+22,aA Gallery_aA Design Museum,Mapo-gu,"19-18, Wausan-ro 17-gil",02-3143-7312,http://www.aadesignmuseum.com/,2,N,N,N,N,N,N,N,N,N,N,N,N
+98,POSCO Museum of Art,Gangnam-gu,"POSCO Center, 440 Teheran-ro",02-3457-1665,http://www.poscoartmuseum.org/,0,Y,Y,N,Y,Y,N,N,N,Y,N,N,N
+19,Seoul Grand Park,Jung-gu,"102, Grand Park Gwangjang-ro, Gwacheon-si, Gyeonggi-do",02-500-7335,http://grandpark.seoul.go.kr/main.do,0,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,Y
+105,Seoul National University Museum of Art MOA,Gwanak-gu,Gwanak-ro 1,02-880-9504,http://www.snumoa.org/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+156,Onggi Folk Museum,Dobong-gu,"574-41, Samyang-ro",02-900-0900,http://www.onggimuseum.org/,2,N,N,N,N,N,N,N,N,N,N,N,N
+159,Trick Eye Museum,Mapo-gu,Hongik-ro 3-gil 20 Seogyo Plaza B2,02-3144-6300,http://trickeye.com/seoul/,0,Y,Y,Y,Y,N,N,N,N,N,N,N,Y
+174,War memorial,Yongsan-gu,"29, Itaewon-ro",02-709-3139,http://www.warmemo.or.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+181,Gyeongin Museum of Art,Jongno-gu,"11-4, Insadong 10-gil",02-733-4448,http://www.kyunginart.co.kr/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+167,Soma Museum of Art,Songpa-gu,"424, Olympic-ro",02-425-1077,http://soma.kspo.or.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+172,Munrae-dong Art Village,Yeongdeungpo-gu,Munrae-dong 3-ga Arts Complex,,,0,N,N,N,N,N,N,N,N,N,N,N,N
+173,"Leeum, Samsung Museum of Art",Yongsan-gu,"60-16, Itaewon-ro 55-gil",02-2014-6900,http://leeum.samsungfoundation.org/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+179,Dia Gallery,Jongno-gu,"121-2, Gyedong-gil",02-742-6030,,0,N,N,N,N,N,N,N,N,N,N,N,N
+183,Hansang Embroidery Museum,Jongno-gu,"29-1, Bukchon-ro 12-gil",02-744-1545,http://www.hansangsoo.com/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+196,Chojeon Textile Quilt Museum,Jung-gu,"66, Toegye-ro 18-gil, Cheil Cultural Center, 1st floor",02-753-4075,http://www.jculture.co.kr/museum,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+29,Amsa-dong Prehistory Residence,Yongsan-gu,Olympic-ro 875 (Amsa-dong),02-3425-6520,http://sunsa.gangdong.go.kr/main.jsp,0,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,Y
+9,Changgyeonggung,Jongno-gu,185 Changgyeonggung-ro,02-762-4868,http://cgg.cha.go.kr,0,Y,Y,Y,N,Y,N,N,Y,Y,N,Y,Y
+3,Blue Arboretum,Guro-gu,"240, Yeondong-ro",02-2686-3200,http://parks.seoul.go.kr/template/sub/pureun.do,2,Y,Y,Y,N,Y,N,N,N,N,N,Y,Y
+176,Sookmyung Women's University Museum,Yongsan-gu,"Inside Sookmyung Women's University, 100, Cheongpa-ro 47-gil",02-710-9134,http://museum.sookmyung.ac.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+149,Hello Museum,Seongdong-gu,"72, Geumho-ro",02-3217-4222,http://www.hellomuseum.com/,0,N,N,N,N,N,N,N,N,N,N,N,N
+14,Independence Park,Seodaemun-gu,Tongil-ro251,02-364-4686,http://parks.seoul.go.kr/parks/detailView.do?pIdx=30,3,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,Y
+4,World Cup Park,Mapo-gu,"243-60, World Cup-Ro",02-300-5500,http://parks.seoul.go.kr/template/sub/worldcuppark.do,0,Y,Y,Y,Y,Y,N,N,Y,N,N,N,N
+16,Children's Grand Park,Gwangjin-gu,"216, Neungdong-ro",02-450-9311,http://www.sisul.or.kr/sub05,0,Y,Y,Y,Y,Y,N,N,Y,Y,N,Y,Y
+8,Changdeokgung Palace,Jongno-gu,"99, Yulgok-ro",02-762-8261,http://www.cdg.go.kr,3,Y,Y,N,N,Y,N,N,Y,Y,Y,Y,Y
+102,Gyeomjae Jeongseon Art Museum,Gangseo-gu,"36, Yangcheon-ro 47-gil",02-2659-2206,http://gjjs.or.kr/,0,Y,Y,Y,Y,N,N,N,Y,N,N,Y,Y
+151,PKM Gallery,Jongno-gu,"40, Samcheong-ro 7-gil",02-734-9467,http://www.pkmgallery.com/,2,N,N,N,N,N,N,N,N,N,N,N,N
+168,Mongchon History Museum,Songpa-gu,"424, Olympic-ro",02-2152-5900,http://baekjemuseum.seoul.go.kr/dreamvillage/,1,Y,Y,Y,N,Y,N,N,N,N,N,N,Y
+175,National Museum of Korea,Yongsan-gu,"137, Seobinggo-ro",02-2077-9000,http://www.museum.go.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+177,Baek Beom Kim Gu Memorial Hall,Yongsan-gu,Imjeong-ro 26,02-799-3400,http://www.kimkoomuseum.org/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+48,Mongchontoseong,Songpa-gu,"424, Olympic-ro",02-410-1114,http://www.olympicpark.co.kr/jsp/homepage/contents/history/mongchon_history.jsp,0,Y,Y,N,N,N,N,N,Y,Y,N,Y,Y
+140,Yeongdeungpo Art Hall,Yeongdeungpo-gu,"Yeongdeungpo Community Center, 596, Gukhoe-daero",02-2670-4020,http://arthall.ydp.go.kr/,0,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,N
+155,Changdong Residency,Dobong-gu,Deokneung-ro 257,02-995-0995,,0,Y,Y,Y,N,Y,N,N,N,N,N,N,Y
+13,Gyeonghuigung,Jongno-gu,55 Saemunan-ro,02-724-0274,http://www.museum.seoul.kr/www/intro/annexIntro/annex_20/annex_20_01.jsp?sso=ok,9,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y
+150,Think Think Museum,Gangnam-gu,"19, Bongeunsa-ro 68-gil",02-562-9611,http://www.www.thinkthink.net/,0,Y,Y,Y,Y,N,N,N,N,N,N,N,Y
+157,Kyunghee University Oriental Medicine History Museum,Dongdaemun-gu,26 Kyunghee-daero Kyunghee University College of Oriental Medicine,02-964-3190,http://museumkm.khu.ac.kr/,0,N,N,N,N,N,N,N,N,N,N,N,N
+158,Nanji Art Studio,Mapo-gu,"108-1, Haneulgongwon-ro",02-308-1071,http://semananji.seoul.go.kr/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+164,Electric Museum,Seocho-gu,"Inside the KEPCO Art Center, 60, Hyoryeong-ro 72-gil",02-2105-8190,http://www.kepco.co.kr/museum,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+169,Seoul Olympic Memorial Hall,Songpa-gu,Olympic-ro 448 Olympic Hall Seoul Olympic Memorial Hall,02-410-1354,http://88olympic.kspo.or.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+180,Gallery Lux,Jongno-gu,12 Pilun-daero 7-gil,02-720-8488,http://www.gallerylux.net/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+195,Ahn Jung-geun Memorial Hall,Jung-gu,"91, Sowol-ro",02-3789-1016,http://www.ahnjunggeun.or.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+199,Paper Country Museum,Jung-gu,"166, Jangchungdan-ro",02-2279-7901,http://www.papermuseum.or.kr/,0,Y,Y,Y,Y,N,N,N,N,N,N,N,Y
+17,Seoul Forest,Seongdong-gu,"273, Ttukseom-ro",02-460-2905,http://parks.seoul.go.kr/template/sub/seoulforest.do,1,Y,Y,Y,Y,Y,N,N,N,Y,N,N,Y
+152,Cais Gallery,Gangnam-gu,"13, Eonju-ro174-gil",02-511-0668,http://www.caisgallery.com/,0,Y,Y,Y,Y,N,N,N,N,N,N,N,Y
+154,Seoul citizen Gwangnaru safety experience center,Gwangjin-gu,Neungdong-ro 238 (Neungdong),02-2049-4061,http://safe119.seoul.go.kr/gwangnaru,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+165,Memorial Hall of Doctor Bonggil Yoon,Seocho-gu,"99, Maeheon-ro",02-557-9932,http://www.yunbonggil.or.kr,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+166,Lotte World Folk Museum,Songpa-gu,"240, Olympic-ro",02-411-4761~5,http://www.lotteworld.com/museum/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+178,One (One&J) Gallery,Jongno-gu,"31-14, Bukchon-ro",02-745-1644,http://www.oneandj.com/,3,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+185,Mokin Museum,Jongno-gu,"20, Insadong 11-gil",02-722-5066,http://www.mokinmuseum.com/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+191,Seoul Museum of Art,Jung-gu,"61, Deoksugung-gil (37, Seosomun-dong)",02-2124-8800,http://sema.seoul.go.kr,1,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+194,Bank of Korea Main Building (Monetary Finance Museum),Jung-gu,"39, Namdaemun-ro",02-759-4881,http://museum.bok.or.kr/,0,N,N,N,Y,Y,N,N,N,N,N,N,Y
+99,Songeun Gallery,Gangnam-gu,"Samtan Building, 421, Yeongdong-daero (Daechi-dong)",02-3448-0100,http://www.songeunartspace.org,1,N,Y,N,Y,N,N,N,N,N,N,N,N
+6,Yangjae Citizen's Forest,Seocho-gu,"99, Maeheon-ro",02-575-3895,http://parks.seoul.go.kr/template/sub/citizen.do,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+12,Gyeongbokgung,Jongno-gu,"161, Sajik-Ro",02-3700-3900,http://www.royalpalace.go.kr/,18,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,Y
+7,Unhyeongung,Jongno-gu,464 Samil-daero (Unni-dong),02-766-9090,http://www.unhyeongung.or.kr/,3,Y,N,Y,N,Y,N,N,Y,N,N,N,Y
+1,Yeouido Park,Yeongdeungpo-gu,"68, Yeouigongwon-ro",02-761-4078,http://parks.seoul.go.kr/template/sub/yeouido.do,0,Y,N,Y,N,Y,N,N,N,Y,N,Y,Y
+5,Boramae Park,Dongjak-gu,"33, Yeouidaebang-ro 20-gil",02-2181-1183,http://parks.seoul.go.kr/template/sub/boramae.do,2,Y,Y,Y,Y,Y,N,N,N,Y,N,Y,Y
+106,Seoul Namseoul Museum of Art,Gwanak-gu,Nambu Beltway 2076,02-598-6247,http://sema.seoul.go.kr/it/artinfo/southart/getIntro,0,Y,N,N,N,Y,N,N,N,N,N,N,N
+186,Bukchon Cultural Center,Jongno-gu,"37, Gyedong-gil",02-2133-1371,http://bukchon.seoul.go.kr/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+192,Deoksugung Museum of Art,Jung-gu,"99 Sejong-daero, National Museum of Modern and Contemporary Art, Deoksugung",02-2022-0600,http://www.mmca.go.kr/,0,Y,Y,Y,N,Y,N,N,N,N,N,N,Y
+70,Heunginjimun,Jongno-gu,Jongno 288,02-2148-1844,http://korean.visitseoul.net/attractions/흥인지문동대문_/1999,0,Y,N,N,N,N,N,N,N,N,N,N,N
+147,Yehwarang,Gangnam-gu,"18, Apgujeong-ro 12-gil",02-542-5543,http://www.galleryyeh.com/,0,Y,Y,Y,Y,N,N,N,N,N,N,N,Y
+2,Seonyudo Park,Yeongdeungpo-gu,"343, Seonyu-ro",02-2631-9368,http://parks.seoul.go.kr/template/sub/seonyudo.do,0,Y,Y,Y,N,Y,N,N,N,N,N,Y,Y
+10,Buk Seoul Dream Forest,Gangbuk-gu,"173, Wolgye-Ro",02-2289-4001,http://parks.seoul.go.kr/template/sub/dreamforest.do,0,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y
+96,Horim Museum (Shinsa Annex),Gangnam-gu,"317, Dosan-daero",02-541-3523,http://horimmuseum.org/sinsa/,0,Y,Y,Y,Y,Y,N,N,Y,N,N,Y,Y
+162,"Hangaram Museum of Art, Seoul Arts Center",Seocho-gu,Nambu Beltway 2406,02-580-1300,http://www.sac.or.kr/,1,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+188,Samsung Publishing Museum,Jongno-gu,Bibong-gil 2-2,02-394-6544,http://ssmop.org/,1,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+190,Cheonggyecheon Berlin Square,Jung-gu,"86, Cheonggyecheon-ro",,,0,N,N,N,N,N,N,N,N,N,N,N,N
+200,Paijaehakdang History Museum,Jung-gu,"Baejaejeong-dong Building, 19, Seosomun-ro 11-gil, East Building",02-319-5578,http://appenzeller.pcu.ac.kr/,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+193,Sindang Creation Arcade,Jung-gu,"87, Majang-ro, Sindang Underground Shopping Center (in Jungang Market)",02-2232-8833,http://cafe.naver.com/sdarcade/,0,Y,Y,Y,N,Y,N,N,N,N,N,N,Y
+18,Jungnang Camping Forest,Jungnang-gu,"110, Mangwoo-ro 87-gil",02-434-4371,http://parks.seoul.go.kr/template/sub/JungnangCampGround.do,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+15,Deoksugung,Jung-gu,"99, Sejong-daero",02-771-9951,http://www.deoksugung.go.kr,7,Y,N,Y,N,Y,N,N,Y,Y,Y,Y,Y
+160,Presidential House,Mapo-gu,Donggyo-ro 15-gil 10,02-3144-2038,http://www.cha.go.kr/korea/heritage/search/Culresult_Db_View.jsp?mc=NS_04_03_01&VdkVgwKey=790413000011&flag=Y,0,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+161,Seodaemun Prison History Hall,Seodaemun-gu,101,02-360-8584,http://www.sscmc.or.kr/newhistory/index_culture.asp,1,Y,Y,Y,N,Y,N,N,N,N,N,N,Y
+182,Gahoe Museum,Jongno-gu,"17, Bukchon-ro 12-gil",02-741-0466,http://www.gahoemuseum.org/,1,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+198,Son Ki-jeong Memorial Hall,Jung-gu,Songijeong-ro 101 Songijeong Sports Park,02-364-1936,http://www.sonkeechung.com/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+71,Creative door,Jongno-gu,Changimun-ro 118,02-730-9924,http://korean.visitseoul.net/attractions/창의문_/3266,1,N,N,N,N,N,N,N,N,N,N,N,N
+184,Donglim Knot Museum,Jongno-gu,"10, Bukchon-ro 12-gil",02-3673-2778,http://www.shimyoungmi.com/,1,Y,Y,Y,N,N,N,N,N,N,N,N,Y
+189,Chunwondang Oriental Medicine Museum,Jongno-gu,"27, Donhwamun-ro 9-gil",02-3672-2005,http://www.cwdmuseum.com/,0,Y,Y,Y,Y,Y,N,N,N,N,N,N,Y
+26,National 4.19 Democratic Cemetery,Gangbuk-gu,"17, 4.19-ro 8-gil",02-996-0419,http://419.mpva.go.kr/,0,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y
+81,Hwangudan,Jung-gu,"106, Sogong-ro",02-3396-5880,http://korean.visitseoul.net/attractions/%20%20%20%20%20%20_/4198,0,N,N,N,N,N,N,N,N,N,N,N,N
