@@ -5,7 +5,7 @@ pipeline{
         stage('Build Image'){
             steps{
                 script{
-                    dockerapp = docker.build("test/pipeline", '-f ./dockerfile ./')
+                    dockerapp = docker.build("test/pipeline", '-f ./dockerfile ./trabalhoMestrado')
                 }
             }
         }
