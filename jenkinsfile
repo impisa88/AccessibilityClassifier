@@ -5,7 +5,7 @@ pipeline{
         stage('Build') {
             steps {
                 script{
-                    dockerapp = ("impisa88/pipeline_test", '-f' ./dockerfile )
+                    dockerapp = docker.build("impisa88/pipeline_test", '-f' ./dockerfile )
                 }
             }
         }
