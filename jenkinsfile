@@ -8,4 +8,6 @@ pipeline{
                     dockerapp = ("impisa88/pipeline_test", '-f' ./dockerfile )
                 }
             }
+        }
+    }
 }
