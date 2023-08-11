@@ -8,7 +8,7 @@ pipeline{
     stages {
         stage('Build') {
           steps {
-            sh 'docker build -t jimpisa88/pipeline_test .'
+            sh 'docker build -t impisa88/pipeline_test .'
           }
         }
         stage('Login') {
@@ -21,10 +21,10 @@ pipeline{
             sh 'docker push impisa88/pipeline_test'
           }
         }
-      }
-      post {
+    }
+    post {
         always {
           sh 'docker logout'
         }
-  }
+    }
 }
