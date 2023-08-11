@@ -82,7 +82,6 @@ class RandomForest:
 
         return feature_importances
 
-
 rfObject = RandomForest()
 data, labels, data_list = rfObject.normalizeData()
 rf, accuracy = rfObject.trainModel(data, labels)
